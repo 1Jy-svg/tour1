@@ -1,0 +1,26 @@
+h1{
+    color:brown;
+    font-size: 45px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+body{
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+    background-size: cover;
+
+}
+img{
+    object-fit: contain;
+    opacity: 0.9;
+    top:0;
+    left:0;
+    z-index:2;
+}
+
+.navbar ,.navbar-expand-lg{
+    background-color: aqua;
+    border-color: brown;
+}
